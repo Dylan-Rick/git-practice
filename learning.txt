@@ -1,5 +1,3 @@
-My Name is Dylan Rick, I am in college for computer programming. 
-I enjoy learning  what about coding and web design. My hobbies are 
-playing video games and watching movies. I go hiking in nice 
-weather to explore unknown areas. I like hanging with my friends 
-and family. I enjoy swimming, basketball and pickle ball.
+I am learning Git fundamentals.
+Git tracks every change I make.
+I can commit my work to save progress.
