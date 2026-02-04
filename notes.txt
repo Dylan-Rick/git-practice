@@ -1,0 +1,3 @@
+How to use code commands on Warp to Github
+How to stage a file from a folder using git add [file name]
+How to push the file to Github using git push
